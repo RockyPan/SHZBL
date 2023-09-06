@@ -1,18 +1,18 @@
 created: 20230903060352338
 creator: KylePan
-difficulty: 5
-due: 20230905135635890
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230913112509953
+grade: 1
+history: [{"due":"20230905135635890","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903135635890"}]
+interval: 3
 lapses: 0
-modified: 20230904141615366
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903135635890
-stability: 2
-tags: ? exported
+modified: 20230906112509953
+modifier: KylePan
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906112509952
+stability: 7.290234566162131
+tags: 方剂 ?
 title: 白虎加人参汤
 tmap.id: acb34802-6bdb-4f25-87ff-1448e09b1735
 type: text/vnd.tiddlywiki

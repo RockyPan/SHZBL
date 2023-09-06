@@ -1,18 +1,18 @@
 created: 20230902125500817
 creator: KylePan
-difficulty: 5
-due: 20230904130953459
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230915112404569
+grade: 1
+history: [{"due":"20230904130953459","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230902130953458"}]
+interval: 4
 lapses: 0
-modified: 20230904141615370
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230902130953458
-stability: 2
-tags: 恶寒 体痛 呕逆 脉紧 伤寒 ? 辨太阳病脉证并治 exported
+modified: 20230906112404569
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230906112404568
+stability: 9.075440292178332
+tags: 恶寒 体痛 呕逆 脉紧 伤寒 辨太阳病脉证并治 exported ?
 title: 条文三
 tmap.id: 36e9da20-2697-4191-a218-91d9166faf3a
 type: text/vnd.tiddlywiki

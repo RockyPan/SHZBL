@@ -1,18 +1,18 @@
 created: 20230903061215740
 creator: KylePan
-difficulty: 5
-due: 20230905140940484
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230913112616104
+grade: 1
+history: [{"due":"20230905140940484","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903140940484"}]
+interval: 3
 lapses: 0
-modified: 20230904141615366
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903140940484
-stability: 2
-tags: ? exported
+modified: 20230906112616104
+modifier: KylePan
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906112616103
+stability: 7.290234566162131
+tags: 方剂 ?
 title: 调胃承气汤
 tmap.id: 6875f0bd-a8ab-4d91-8f4e-ee028fe08c5c
 type: text/vnd.tiddlywiki

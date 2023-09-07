@@ -1,23 +1,23 @@
 created: 20230903011601682
 creator: KylePan
-difficulty: 5
-due: 20230905053816029
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916092612591
+grade: 1
+history: [{"due":"20230905053816029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053816026"}]
+interval: 4
 lapses: 0
-modified: 20230904141615367
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903053816026
-stability: 2
-tags: ? exported
+modified: 20230907092612591
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907092612591
+stability: 9.075440292178332
+tags: 方剂 ?
 title: 桂枝加葛根汤
 tmap.id: 9a078597-c3a6-4cd9-9f0a-482b57f9ebc9
 type: text/vnd.tiddlywiki
 
-桂枝三两（去皮）芍药三两甘草二两（炙）生姜三两（切）大枣十二枚（劈）葛根四两
+[[桂枝]]三两（去皮）[[芍药]]三两 [[甘草]]二两（炙）[[生姜]]三两（切）[[大枣]]十二枚（劈）[[葛根]]四两
 
 右六味，先以水七升，煮葛根去上沫，纳诸药，煮取三升，去滓，温服一升，日三服，不须啜粥，余如[[桂枝|桂枝汤]]将息及禁忌法。
 

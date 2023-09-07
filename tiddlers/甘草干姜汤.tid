@@ -1,18 +1,18 @@
 created: 20230903061051448
 creator: KylePan
-difficulty: 5
-due: 20230905140851747
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916092351678
+grade: 1
+history: [{"due":"20230905140851747","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903140851746"}]
+interval: 4
 lapses: 0
-modified: 20230904141615366
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903140851746
-stability: 2
-tags: ? exported
+modified: 20230907092351678
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907092351678
+stability: 9.075440292178332
+tags: 方剂 ?
 title: 甘草干姜汤
 tmap.id: 2be11969-f9ee-43b6-8e9a-1d24077e630a
 type: text/vnd.tiddlywiki

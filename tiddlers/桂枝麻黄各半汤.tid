@@ -1,18 +1,18 @@
 created: 20230903055516831
 creator: KylePan
-difficulty: 5
-due: 20230905135421923
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916092640238
+grade: 1
+history: [{"due":"20230905135421923","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903135421922"}]
+interval: 4
 lapses: 0
-modified: 20230904141615367
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903135421922
-stability: 2
-tags: ? exported
+modified: 20230907092640238
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907092640237
+stability: 9.075440292178332
+tags: 方剂 ?
 title: 桂枝麻黄各半汤
 tmap.id: 4613e3de-949e-4a22-b48d-260d9c34a256
 type: text/vnd.tiddlywiki

@@ -6,6 +6,7 @@ grade: 1
 history: [{"due":"20230905053133510","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053133508"}]
 interval: 4
 lapses: 0
+<<<<<<< HEAD
 modified: 20230907100114687
 modifier: KylePan
 reps: 2
@@ -13,6 +14,15 @@ retrievability: 0.81
 review: 20230907100114687
 stability: 9.075440292178332
 tags: 辨太阳病脉证并治 条文 ?
+=======
+modified: 20230906142041600
+modifier: KylePa
+reps: 1
+retrievability: 1
+review: 20230903053133508
+stability: 2
+tags: 辨太阳病脉证并治 ?
+>>>>>>> 0d7072a (Updated with Git-Sync)
 title: 条文十二
 tmap.id: 8bc886fb-2feb-4eda-8ab1-235cf65e035a
 type: text/vnd.tiddlywiki

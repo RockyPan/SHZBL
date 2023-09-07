@@ -1,5 +1,6 @@
 created: 20230902131243423
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 5.010000000000001
 due: 20230916094811741
 grade: 1
@@ -13,6 +14,21 @@ retrievability: 0.81
 review: 20230907094811741
 stability: 9.075440292178332
 tags: 辨太阳病脉证并治 条文 ?
+=======
+difficulty: 5.0538149682454625
+due: 20230913141751319
+grade: 1
+history: [{"due":"20230905051607384","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903051607384"}]
+interval: 3
+lapses: 0
+modified: 20230906141751320
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906141751316
+stability: 7.290234566162131
+tags: 辨太阳病脉证并治 ?
+>>>>>>> 0d7072a (Updated with Git-Sync)
 title: 条文六
 tmap.id: 77a5ab6e-c25b-42a9-8a26-5415842fccf0
 type: text/vnd.tiddlywiki

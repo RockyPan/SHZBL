@@ -1,5 +1,6 @@
 created: 20230903061255398
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 5.010000000000001
 due: 20230916093624746
 grade: 1
@@ -12,6 +13,20 @@ reps: 2
 retrievability: 0.81
 review: 20230907093624745
 stability: 9.075440292178332
+=======
+difficulty: 5.0538149682454625
+due: 20230913140112070
+grade: 1
+history: [{"due":"20230905141002983","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903141002983"}]
+interval: 3
+lapses: 0
+modified: 20230906140112071
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906140112067
+stability: 7.290234566162131
+>>>>>>> 0d7072a (Updated with Git-Sync)
 tags: 方剂 ?
 title: 四逆汤
 tmap.id: 438f1f93-0769-442d-b322-150785ea6b1b

@@ -1,5 +1,6 @@
 created: 20230903011601682
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 5.010000000000001
 due: 20230916092612591
 grade: 1
@@ -12,6 +13,20 @@ reps: 2
 retrievability: 0.81
 review: 20230907092612591
 stability: 9.075440292178332
+=======
+difficulty: 5.0538149682454625
+due: 20230913135733132
+grade: 1
+history: [{"due":"20230905053816029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053816026"}]
+interval: 3
+lapses: 0
+modified: 20230906135733133
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906135733130
+stability: 7.290234566162131
+>>>>>>> 0d7072a (Updated with Git-Sync)
 tags: 方剂 ?
 title: 桂枝加葛根汤
 tmap.id: 9a078597-c3a6-4cd9-9f0a-482b57f9ebc9

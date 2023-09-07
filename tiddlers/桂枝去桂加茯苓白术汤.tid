@@ -1,5 +1,6 @@
 created: 20230903060806393
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 5.010000000000001
 due: 20230916093415895
 grade: 1
@@ -12,6 +13,20 @@ reps: 2
 retrievability: 0.81
 review: 20230907093415895
 stability: 9.075440292178332
+=======
+difficulty: 5.0538149682454625
+due: 20230913135824019
+grade: 1
+history: [{"due":"20230905135842803","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903135842803"}]
+interval: 3
+lapses: 0
+modified: 20230906135824020
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906135824017
+stability: 7.290234566162131
+>>>>>>> 0d7072a (Updated with Git-Sync)
 tags: 方剂 ?
 title: 桂枝去桂加茯苓白术汤
 tmap.id: 80ee2ac1-1410-4012-98d7-6c6721784e32

@@ -1,5 +1,6 @@
 created: 20230903055516831
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 5.010000000000001
 due: 20230916092640238
 grade: 1
@@ -12,6 +13,20 @@ reps: 2
 retrievability: 0.81
 review: 20230907092640237
 stability: 9.075440292178332
+=======
+difficulty: 5.0538149682454625
+due: 20230913135758202
+grade: 1
+history: [{"due":"20230905135421923","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903135421922"}]
+interval: 3
+lapses: 0
+modified: 20230906135758203
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230906135758199
+stability: 7.290234566162131
+>>>>>>> 0d7072a (Updated with Git-Sync)
 tags: 方剂 ?
 title: 桂枝麻黄各半汤
 tmap.id: 4613e3de-949e-4a22-b48d-260d9c34a256

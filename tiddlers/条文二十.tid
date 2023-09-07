@@ -1,18 +1,18 @@
 created: 20230903032515230
 creator: KylePan
-difficulty: 5
-due: 20230905054308312
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916094137364
+grade: 1
+history: [{"due":"20230905054308312","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903054308311"}]
+interval: 4
 lapses: 0
-modified: 20230907093910756
+modified: 20230907094137364
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230903054308311
-stability: 2
-tags: 辨太阳病脉证并治 ? 条文
+reps: 2
+retrievability: 0.81
+review: 20230907094137363
+stability: 9.075440292178332
+tags: 辨太阳病脉证并治 条文 ?
 title: 条文二十
 tmap.id: 1e1f7f93-3f41-4cf4-b9b7-15e11433fe93
 type: text/vnd.tiddlywiki

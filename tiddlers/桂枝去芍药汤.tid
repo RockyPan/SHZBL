@@ -1,18 +1,18 @@
 created: 20230903054740618
 creator: KylePan
-difficulty: 5
-due: 20230905135037557
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916093458089
+grade: 1
+history: [{"due":"20230905135037557","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903135037556"}]
+interval: 4
 lapses: 0
-modified: 20230904141615367
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903135037556
-stability: 2
-tags: ? exported
+modified: 20230907093458089
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907093458089
+stability: 9.075440292178332
+tags: 方剂 ?
 title: 桂枝去芍药汤
 tmap.id: b4b5a5c4-6f7b-4397-990b-aa5837e457c6
 type: text/vnd.tiddlywiki

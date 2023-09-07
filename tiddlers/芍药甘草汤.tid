@@ -1,18 +1,18 @@
 created: 20230903061134577
 creator: KylePan
-difficulty: 5
-due: 20230905140926533
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916093605656
+grade: 1
+history: [{"due":"20230905140926533","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903140926532"}]
+interval: 4
 lapses: 0
-modified: 20230904141615368
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903140926532
-stability: 2
-tags: ? exported
+modified: 20230907093605656
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907093605656
+stability: 9.075440292178332
+tags: 方剂 ?
 title: 芍药甘草汤
 tmap.id: 7eea9e26-103c-4563-8dfb-a27a907af353
 type: text/vnd.tiddlywiki

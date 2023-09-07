@@ -6,13 +6,13 @@ grade: 1
 history: [{"due":"20230904130826596","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230902130826591"}]
 interval: 4
 lapses: 0
-modified: 20230906020840900
+modified: 20230907093856085
 modifier: KylePan
 reps: 2
 retrievability: 0.81
 review: 20230906020824237
 stability: 9.075440292178332
-tags: 脉浮 恶寒 头项强痛 辨太阳病脉证并治 exported ?
+tags: 辨太阳病脉证并治 ? 条文
 title: 条文一
 tmap.id: 05ba89b8-fd5c-425e-b84e-f7778cd5f4f1
 type: text/vnd.tiddlywiki

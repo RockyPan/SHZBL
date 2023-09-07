@@ -1,18 +1,18 @@
 created: 20230903010314823
 creator: KylePan
-difficulty: 5
-due: 20230905053223032
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916100249335
+grade: 1
+history: [{"due":"20230905053223032","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053223032"}]
+interval: 4
 lapses: 0
-modified: 20230904141615371
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903053223032
-stability: 2
-tags: 辨太阳病脉证并治 ? exported
+modified: 20230907100249335
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907100249334
+stability: 9.075440292178332
+tags: 辨太阳病脉证并治 条文 ?
 title: 条文十三
 tmap.id: 85946e26-9834-4e5f-a38f-69965858dbc2
 type: text/vnd.tiddlywiki
@@ -20,4 +20,3 @@ type: text/vnd.tiddlywiki
 太阳病，头痛发热，汗出恶风，[[桂枝汤]]主之。
 
 ---
-{{桂枝汤}}

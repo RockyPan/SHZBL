@@ -1,18 +1,18 @@
 created: 20230903011720029
 creator: KylePan
-difficulty: 5
-due: 20230905053849418
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916100345049
+grade: 1
+history: [{"due":"20230905053849418","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053849417"}]
+interval: 4
 lapses: 0
-modified: 20230904141615372
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903053849417
-stability: 2
-tags: 辨太阳病脉证并治 ? exported
+modified: 20230907100345049
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907100345049
+stability: 9.075440292178332
+tags: 辨太阳病脉证并治 条文 ?
 title: 条文十五
 tmap.id: 0400bfc7-661e-4a34-bb44-233af9bc136c
 type: text/vnd.tiddlywiki
@@ -20,4 +20,4 @@ type: text/vnd.tiddlywiki
 太阳病下之后，其气上冲者，可与[[桂枝汤]]，方用前法；若不上冲者不得与之。
 
 ---
-{{桂枝汤}}
+

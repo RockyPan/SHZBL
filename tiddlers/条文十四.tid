@@ -1,18 +1,18 @@
 created: 20230903011409931
 creator: KylePan
-difficulty: 5
-due: 20230905053627317
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20230916100322877
+grade: 1
+history: [{"due":"20230905053627317","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053627314"}]
+interval: 4
 lapses: 0
-modified: 20230904141615372
-modifier: TidGiUser
-reps: 1
-retrievability: 1
-review: 20230903053627314
-stability: 2
-tags: 辨太阳病脉证并治 ? exported
+modified: 20230907100322877
+modifier: KylePan
+reps: 2
+retrievability: 0.81
+review: 20230907100322877
+stability: 9.075440292178332
+tags: 辨太阳病脉证并治 条文 ?
 title: 条文十四
 tmap.id: 5549fe16-fbda-40c3-9f02-d94d953df274
 type: text/vnd.tiddlywiki
@@ -20,4 +20,3 @@ type: text/vnd.tiddlywiki
 太阳病，项背强几几，反汗出恶风者，[[桂枝加葛根汤]]主之。
 
 ---
-{{桂枝加葛根汤}}

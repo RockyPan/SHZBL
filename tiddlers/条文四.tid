@@ -6,13 +6,13 @@ grade: 1
 history: [{"due":"20230904131043660","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230902131043658"}]
 interval: 4
 lapses: 0
-modified: 20230907093824711
-modifier: KylePan
+modified: 20230909075308034
+modifier: KylePa
 reps: 2
 retrievability: 0.81
 review: 20230906112439550
 stability: 9.075440292178332
-tags: 辨太阳病脉证并治 ?
+tags: 辨太阳病脉证并治 ? 条文
 title: 条文四
 tmap.id: 62bee56d-f2b5-4745-8698-acd1968b3557
 type: text/vnd.tiddlywiki

@@ -6,13 +6,13 @@ grade: 1
 history: [{"due":"20230904130913067","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230902130913065"}]
 interval: 4
 lapses: 0
-modified: 20230906024451969
-modifier: KylePan
+modified: 20230909075209034
+modifier: KylePa
 reps: 2
 retrievability: 0.81
 review: 20230906024409807
 stability: 9.075440292178332
-tags: 发热 自汗 恶风 脉缓 中风 辨太阳病脉证并治 ? 条文
+tags: 辨太阳病脉证并治 ? 条文
 title: 条文二
 tmap.id: a143100d-b18c-45dd-aa58-44a9daad62d9
 type: text/vnd.tiddlywiki

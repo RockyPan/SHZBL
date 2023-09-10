@@ -6,8 +6,8 @@ grade: 1
 history: [{"due":"20230905140940484","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903140940484"}]
 interval: 3
 lapses: 0
-modified: 20230906112616104
-modifier: KylePan
+modified: 20230910020455024
+modifier: KylePa
 reps: 2
 retrievability: 0.8538149682454624
 review: 20230906112616103
@@ -19,4 +19,4 @@ type: text/vnd.tiddlywiki
 
 [[大黄]]四两（去皮，清酒洗） [[甘草]]二两（炙）[[芒硝]]半升
 
-上三味，以水三升，煮取一升，去滓，内芒硝，更上火微煮令沸，少少温服之。
+上三味，以水三升，切，煮二物至一升，去滓，内芒硝，更上火微煮令沸，少少温服之。

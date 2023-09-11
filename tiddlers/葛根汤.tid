@@ -1,17 +1,17 @@
 created: 20230906024644564
 creator: KylePan
-difficulty: 5
-due: 20230910032341992
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230918025623502
+grade: 1
+history: [{"due":"20230910032341992","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230908032341992"}]
+interval: 3
 lapses: 0
-modified: 20230908032341992
+modified: 20230911025623503
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230908032341992
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230911025623502
+stability: 7.290234566162131
 tags: 方剂 ?
 title: 葛根汤
 type: text/vnd.tiddlywiki

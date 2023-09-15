@@ -1,36 +1,21 @@
 created: 20230902131622865
 creator: KylePan
-<<<<<<< HEAD
-difficulty: 5.010000000000001
-due: 20230916094717653
-grade: 1
-history: [{"due":"20230905052802309","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903052802308"}]
-interval: 4
-lapses: 0
-modified: 20230907094717654
-modifier: KylePan
-reps: 2
-retrievability: 0.81
-review: 20230907094717653
-stability: 9.075440292178332
-tags: 辨太阳病脉证并治 条文 ?
-=======
 difficulty: 5.0538149682454625
 due: 20230913141658868
 grade: 1
 history: [{"due":"20230905052802309","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903052802308"}]
 interval: 3
 lapses: 0
-modified: 20230906141658869
-modifier: KylePa
+modified: 20230914060800202
+modifier: KylePan
 reps: 2
 retrievability: 0.8538149682454624
 review: 20230906141658866
 stability: 7.290234566162131
 tags: 辨太阳病脉证并治 ?
->>>>>>> 0d7072a (Updated with Git-Sync)
 title: 条文九
-tmap.id: 0ca6db09-e958-4cea-b617-dc626276760a
-type: text/vnd.tiddlywiki
 
 太阳病欲解时从[[巳至未|十二地支]]上。
+
+---
+六经各以经气王时而解。巳午未为太阳气王之时，故太阳病至此时而解，以人气得大气之助故也。

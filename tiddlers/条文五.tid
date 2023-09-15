@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20230905032918838","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903032918838"}]
 interval: 4
 lapses: 0
-modified: 20230907100420686
+modified: 20230914032547451
 modifier: KylePan
 reps: 2
 retrievability: 0.81
@@ -14,7 +14,8 @@ review: 20230907100420686
 stability: 9.075440292178332
 tags: 辨太阳病脉证并治 ?
 title: 条文五
-tmap.id: 70033c74-f2d3-49af-b05a-9f5d5c687c62
-type: text/vnd.tiddlywiki
 
 伤寒二三日，阳明少阳证不见者，为不传也。
+
+---
+传经为伤寒中之一病，其传与不传，亦以见证为断。若寒热相激而传，则必一日一经，计日不爽，故二日当阳明证见，三日当少阳证见，若二三日不如期见二阳之证，则决定不为传经病也，传变干移，不在此例。

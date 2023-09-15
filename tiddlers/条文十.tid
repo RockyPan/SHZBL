@@ -1,36 +1,21 @@
 created: 20230902131655887
 creator: KylePan
-<<<<<<< HEAD
-difficulty: 5.010000000000001
-due: 20230916100013685
-grade: 1
-history: [{"due":"20230905052918450","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903052918450"}]
-interval: 4
-lapses: 0
-modified: 20230907100013685
-modifier: KylePan
-reps: 2
-retrievability: 0.81
-review: 20230907100013685
-stability: 9.075440292178332
-tags: 辨太阳病脉证并治 条文 ?
-=======
 difficulty: 5.0538149682454625
 due: 20230913141957210
 grade: 1
 history: [{"due":"20230905052918450","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903052918450"}]
 interval: 3
 lapses: 0
-modified: 20230906141957212
-modifier: KylePa
+modified: 20230914061001470
+modifier: KylePan
 reps: 2
 retrievability: 0.8538149682454624
 review: 20230906141957202
 stability: 7.290234566162131
 tags: 辨太阳病脉证并治 ?
->>>>>>> 0d7072a (Updated with Git-Sync)
 title: 条文十
-tmap.id: c320c73f-0d8e-444b-b9ea-6dc14786cd5d
-type: text/vnd.tiddlywiki
 
 风家表解而不了了者，十二日愈。
+
+---
+风家者，谓素易伤风之体，必其人肺气弱，腠理疏，卫阳不能外捍，常多感冒，犹淋家汗家之称也。素喜伤风，则邪气乘虚入客，气弱不足御邪，每外解而仍不了了。不了了者，谓余邪缠绵，不能全愈，必待经气再周，十二日始复其常。凡体秉有偏虚者，外内合邪，引发宿恙，愈期多延时日，皆同此例。

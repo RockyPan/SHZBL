@@ -1,20 +1,11 @@
-created: 20230902125846718
+created: 20230914032128898
 creator: KylePan
-difficulty: 5.010000000000001
-due: 20230915112439550
-grade: 1
-history: [{"due":"20230904131043660","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230902131043658"}]
-interval: 4
-lapses: 0
-modified: 20230909075308034
-modifier: KylePa
-reps: 2
-retrievability: 0.81
-review: 20230906112439550
-stability: 9.075440292178332
-tags: 辨太阳病脉证并治 ? 条文
+modified: 20230914032335499
+modifier: KylePan
+tags: ? 辨太阳病脉证并治 条文
 title: 条文四
-tmap.id: 62bee56d-f2b5-4745-8698-acd1968b3557
-type: text/vnd.tiddlywiki
 
 伤寒一日，太阳受之，脉若静者，为不传；颇欲吐，若躁烦，脉数急者，为传也。
+
+---
+此辨伤寒传经证也。传经之义，释详序例，寒热相激，其气传行;脉若静者，为里 无热，府阳不盛，故不传也，胃寒则气易逆，故颇欲吐(至此为一段)，胃寒欲吐者，必 不传经，若内见躁烦，已征府阳之盛，脉转数急，更形化热之机，外寒与府阳争胜，斯 传经之变作矣(躁烦则热邪内陷，故为传经之变，但躁烦亦有虚实，不可一例)。

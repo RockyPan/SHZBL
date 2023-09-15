@@ -1,36 +1,21 @@
 created: 20230902131532867
 creator: KylePan
-<<<<<<< HEAD
-difficulty: 5.010000000000001
-due: 20230916093733198
-grade: 1
-history: [{"due":"20230905051841548","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903051841547"}]
-interval: 4
-lapses: 0
-modified: 20230907093733198
-modifier: KylePan
-reps: 2
-retrievability: 0.81
-review: 20230907093733198
-stability: 9.075440292178332
-tags: 辨太阳病脉证并治 条文 ?
-=======
 difficulty: 5.0538149682454625
 due: 20230913140140936
 grade: 1
 history: [{"due":"20230905051841548","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903051841547"}]
 interval: 3
 lapses: 0
-modified: 20230906140140937
-modifier: KylePa
+modified: 20230914060638161
+modifier: KylePan
 reps: 2
 retrievability: 0.8538149682454624
 review: 20230906140140933
 stability: 7.290234566162131
 tags: 辨太阳病脉证并治 ?
->>>>>>> 0d7072a (Updated with Git-Sync)
 title: 条文八
-tmap.id: 85d64192-dabc-480e-80f2-dec7286f2ed7
-type: text/vnd.tiddlywiki
 
 太阳病，头痛至七日以上自愈者，以行其经尽故也。若欲作再经者，针足阳明使经不传则愈。
+
+---
+此言传经病，一日太阳，二日阳明，至七日止，则六经行尽，当渐自愈者。曰头痛至七日以上自愈者，言七日六经已尽，若欲再传经，必仍从太阳始，再传太阳者，必头痛更作，不能愈也。既由太阳再传，以次必更传阳明，刺阳明以绝其再传之路，则府热泄而病解，故曰:使经不传则愈。

@@ -1,3 +1,4 @@
+caption: 
 created: 20230903010314823
 creator: KylePan
 difficulty: 5.010000000000001
@@ -6,7 +7,7 @@ grade: 1
 history: [{"due":"20230905053223032","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230903053223032"}]
 interval: 4
 lapses: 0
-modified: 20230907100249335
+modified: 20230914073509682
 modifier: KylePan
 reps: 2
 retrievability: 0.81
@@ -14,9 +15,8 @@ review: 20230907100249334
 stability: 9.075440292178332
 tags: 辨太阳病脉证并治 条文 ?
 title: 条文十三
-tmap.id: 85946e26-9834-4e5f-a38f-69965858dbc2
-type: text/vnd.tiddlywiki
 
 太阳病，头痛发热，汗出恶风，[[桂枝汤]]主之。
 
 ---
+上辨中风之病源，此举中风之见证。中风以头痛，发热，汗出恶风为证谛，不言项强者，以已见总纲，不言脉缓者，以平脉为辨证之主，不待烦言也。具此脉证，即宜[[桂枝汤]]主之。主之者，不须进退加减云尔。
